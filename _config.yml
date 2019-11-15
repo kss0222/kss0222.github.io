@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Yebin.Y
-subtitle: "조금씩 많이"
-email: yebinyoun@gmail.com
-name: Nibey.Y
+title: SeongShin.K
+subtitle: "적게 가지고 많이 사랑하기"
+email: kss0222@gmail.com
+name: Esther.K
 description: >
   Train, Test, and Predict the World.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "yebiny4.github.io" # the base hostname & protocol for your site
+url: "kss0222.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/universecar.png"
 
@@ -95,8 +95,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: yebiny
-    url: https://github.com/yebiny
+    username: kss0222
+    url: https://github.com/kss0222
     desc: Fork me on GitHub
     share: false
 
