@@ -3,7 +3,7 @@ layout: post
 title:  "딥러닝 시작하기"
 date:   2020-03-23
 author: Esther. K
-categories: Deep Learning_1
+categories: DeepLearning_1
 tags: 딥러닝
 ---
 
