@@ -14,7 +14,7 @@ tags: 딥러닝
 
 ##  1. 환경 설정
 ---
-1) 가상환경 Anaconda 설치
+<b>1) 가상환경 Anaconda 설치</b>
 
 * Anaconda를 설치하기 위해서는 [Anaconda]( https://www.anaconda.com/) 에서 자신의 OS에 맞는 프로그램을 다운받아 설치하면 된다. 
 
@@ -25,12 +25,12 @@ tags: 딥러닝
 import tensorflow as tf
 import numpy as np
 ```
-2) 텐서플로우(Tensorflow) 설치
+<b>2) 텐서플로우(Tensorflow) 설치</b>
 텐서플로우를 새로 만든 가상환경에 설치.
 
 conda install tensorflow
 
-3) 주피터노트북(Jupyter notebook) 설치 및 실행
+<b>3) 주피터노트북(Jupyter notebook) 설치 및 실행</b>
 
 conda install jupyter notebook
 
