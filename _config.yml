@@ -62,7 +62,20 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+# -----------------------------------------------------------------------------
+#  Collections
+# -----------------------------------------------------------------------------
 
+collections:
+  featured_categories:
+    permalink:       /category/:name/
+    output:          true
+  featured_tags:
+    permalink:       /tag/:name/
+    output:          true
+  projects:
+    permalink:       /projects/:path/
+    output:          true
 # Social icons and sharing options
 #
 # Social settings are used in two places:
