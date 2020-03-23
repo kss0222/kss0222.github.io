@@ -10,23 +10,38 @@ tags: 딥러닝
 파이썬(Python) 및 텐서플로우(tensoflow) 설치하기
 
 
-> 아나콘다(Anaconda)는 수학과 과학 분야에서 사용되는 여러 패키지들을 묶어 놓은 파이썬 배포판으로서 SciPy, Numpy, Matplotlib, Pandas 등을 비롯한 많은 패키지들을 포함하고 있다.
+> 아나콘다(Anaconda)는 수학과 과학 분야에서 사용되는 여러 패키지들을 묶어 놓은 파이썬 배포판으로서 SciPy, Numpy, Matplotlib, Pandas 등을 비롯한 많은 패키지들을 포함하고 있다. 텐서플로(TensorFlow)는 구글(Google)에서 만든, 딥러닝 프로그램을 쉽게 구현할 수 있도록 다양한 기능을 제공해주는 라이브러리이다.
+
+출처: https://excelsior-cjh.tistory.com/148 [EXCELSIOR]
 
 
 ##  1. 환경 설정
 ---
+1) 가상환경 Anaconda 설치
 
 * Anaconda를 설치하기 위해서는 https://www.anaconda.com/ 에서 자신의 OS에 맞는 프로그램을 다운받아 설치하면 된다. 
 
- 윈도우 버전은 여기에서 - > https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe
+윈도우 버전은 여기에서 - > https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe
 ![02]({{ site.url }}/assets/anaconda.PNG)
 ```python
 !pip install tensorflow-gpu==2.0.0-rc1
 import tensorflow as tf
 import numpy as np
 ```
+2) 텐서플로우(Tensorflow) 설치
+텐서플로우를 새로 만든 가상환경에 설치.
 
-## 2. Data Preprocessing
+conda install tensorflow
+
+3) 주피터노트북(Jupyter notebook) 설치 및 실행
+
+conda install jupyter notebook
+
+jupyter notebook
+
+![01]({{ site.url }}/assets/jupyter.PNG)
+
+## 2. 딥러닝 관련 파이썬 기초 문법
 ---
 
 ### MNIST 데이터 불러오기 
