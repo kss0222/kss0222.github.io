@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "딥러닝 시작하기"
+date:   2020-03-23
+author: Esther. K
+categories: Deep Learning_1
+tags: 딥러닝tag
+---
+
+파이썬(Python) 및 텐서플로우(tensoflow) 설치하기
