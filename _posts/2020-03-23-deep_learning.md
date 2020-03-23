@@ -16,9 +16,9 @@ tags: 딥러닝
 ---
 1) 가상환경 Anaconda 설치
 
-* Anaconda를 설치하기 위해서는 https://www.anaconda.com/ 에서 자신의 OS에 맞는 프로그램을 다운받아 설치하면 된다. 
+* Anaconda를 설치하기 위해서는 [Anaconda]( https://www.anaconda.com/) 에서 자신의 OS에 맞는 프로그램을 다운받아 설치하면 된다. 
 
-윈도우 버전은 여기에서 - > https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe
+윈도우 버전은 여기에서 - > [Anaconda 윈도우 버전](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)
 
 ```python
 !pip install tensorflow-gpu==2.0.0-rc1
