@@ -36,7 +36,7 @@ conda install jupyter notebook
 
 jupyter notebook
 
-<img src = "/assets/jupyter.PNG">
+<img src = "/assets/jupyter.png">
 
 ## 2. 딥러닝 관련 파이썬 기초 문법
 ---
