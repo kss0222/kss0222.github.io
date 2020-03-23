@@ -20,8 +20,6 @@ tags: 딥러닝
 
 윈도우 버전은 여기에서 - > https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe
 
-#<img src = "/assets/anaconda.png">
-
 ```python
 !pip install tensorflow-gpu==2.0.0-rc1
 import tensorflow as tf
