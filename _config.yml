@@ -56,7 +56,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
     
-  - cat: 잡담
+  - cat: Talk
     desc: "Talk."
 
   - cat: dummy
