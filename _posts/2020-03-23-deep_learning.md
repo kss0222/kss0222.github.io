@@ -36,7 +36,7 @@ conda install jupyter notebook
 
 jupyter notebook
 
-![01]({{ site.url }}/assets/jupyter.png)
+![01]({{ site.url }}/assets/jupyter.PNG)
 
 ## 2. 딥러닝 관련 파이썬 기초 문법
 ---
@@ -72,7 +72,6 @@ for i in range(size*size):
 plt.show()
 ```
 ![02]({{ site.url }}/assets/dnn-MNIST.PNG)
-
 ### 데이터 Reshape 및 정규화 
 
 * 여기까진 지난 시간에 했던 DNN노트와 다른 점이 없습니다. 하지만 Reshape 할때 shape가 달라집니다. 
