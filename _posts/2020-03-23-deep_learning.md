@@ -10,17 +10,15 @@ tags: 딥러닝
 파이썬(Python) 및 텐서플로우(tensoflow) 설치하기
 
 
-> Convolustional lyaer로 MNIST를 분류하는 모델을 만들고 학습시켜 봅니다.
-사용환경은 Google Colab에서 Tensorflow 2.0 version Keras를 이용하였습니다. 
- 
-이번 시간에는 저번 시간에 햇던 DNN에 이어서 Convolution network를 이용해서 MNIST데이터를 분류해 보도록 하겠습니다. 
-전체적으로 비슷하지만 어떤점이 다른지 비교하면서 보시면 좋을듯 합니다. 
+> 아나콘다(Anaconda)는 수학과 과학 분야에서 사용되는 여러 패키지들을 묶어 놓은 파이썬 배포판으로서 SciPy, Numpy, Matplotlib, Pandas 등을 비롯한 많은 패키지들을 포함하고 있다.
 
 
 ##  1. 환경 설정
 ---
 
-* 먼저 실습에 필요한 tensorflow 2.0을 임포트 해줍니다. 
+* Anaconda를 설치하기 위해서는 https://www.anaconda.com/ 에서 자신의 OS에 맞는 프로그램을 다운받아 설치하면 된다. 
+
+ 윈도우 버전은 여기에서 - > https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe
 
 ```python
 !pip install tensorflow-gpu==2.0.0-rc1
