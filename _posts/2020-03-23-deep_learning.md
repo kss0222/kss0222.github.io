@@ -7,7 +7,7 @@ categories: DeepLearning_1
 tags: 딥러닝
 ---
 
-파이썬(Python) 및 텐서플로우(tensoflow) 설치하기
+아나콘다(Anaconda)및 텐서플로우(tensoflow) 설치
 
 
 > 아나콘다(Anaconda)는 수학과 과학 분야에서 사용되는 여러 패키지들을 묶어 놓은 파이썬 배포판으로서 SciPy, Numpy, Matplotlib, Pandas 등을 비롯한 많은 패키지들을 포함하고 있다. 텐서플로(TensorFlow)는 구글(Google)에서 만든, 딥러닝 프로그램을 쉽게 구현할 수 있도록 다양한 기능을 제공해주는 라이브러리이다.
