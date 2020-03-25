@@ -3,7 +3,7 @@ layout: post
 title:  "딥러닝 시작하기"
 date:   2020-03-23
 author: SeongShin. K
-categories: DeepLearning_1
+categories: 기계학습실습
 tags: 딥러닝
 ---
 
