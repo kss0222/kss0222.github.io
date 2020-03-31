@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "딥러닝 시작하기 3"
+date:   2020-03-30
+author: SeongShin.K
+categories: 기계학습및실습
+tags: 딥러닝
+---
+
+
+아나콘다(Anaconda)및 텐서플로우(tensoflow) 
+
+
+> 모두를 위한 딥러닝 Lab 
+
+ 
+## 1. 모두를 위한 딥러닝 Lab
+---
+https://github.com/deeplearningzerotoall/TensorFlow
+
+PART 1: Basic Machine Learning (Lab)
+
+1. [basics](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-01-basics.ipynb).
+2. [Simple Liner Regression](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-02-1-Simple-Linear-Regression-eager.ipynb).
+3. [logistic_regression_diabetes-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-05-2-logistic_regression_diabetes-eager.ipynb)
+4. [Softmax Zoo_classifier-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-06-2-softmax_zoo_classifier-eager.ipynb)
+5. [MNIST introduction](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-07-4-mnist_introduction.ipynb)
+6. [Fashion MNIST introduction](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-07-5-fashion-mnist_introduction.ipynb)
+
+PART 2: Basic Deep Learning (Lab)
+
+1. [XOR-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-09-1-XOR-eager.ipynb).
+2. [mnist_nn_xavier](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-10-2-1-mnist_nn_xavier.ipynb).
+
+PART 3: Convolutional Neural Network (Lab) 
+
+1. [cnn-basics-keras-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-11-0-cnn-basics-keras-eager.ipynb).
+2. [mnist-cnn-keras-sequential-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-11-1-mnist-cnn-keras-sequential-eager.ipynb).
+3. [mnist-cnn-keras-subclassing-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-11-3-mnist-cnn-keras-subclassing-eager.ipynb).
+4. [mnist-cnn-ensemble-keras-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-11-4-mnist-cnn-ensemble-keras-eager.ipynb)
+5. [mnist-cnn-best-keras-eager](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/lab-11-5-mnist-cnn-best-keras-eager.ipynb)
+
+
+
+
+  
